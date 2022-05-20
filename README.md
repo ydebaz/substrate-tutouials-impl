@@ -16,4 +16,4 @@ https://docs.substrate.io/tutorials/v3/kitties/pt2/
 
 https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/
 
-https://docs.substrate.io/how-to-guides/v3/testing/basics/
+https://docs.substrate.io/how-to-guides/v3/testing/basics/ ( could have been better )
