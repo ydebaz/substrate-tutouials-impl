@@ -1,5 +1,7 @@
 # substrate-tutouials-impl
 
+each project has own branch 
+
 over the last few months i've been learning rust and substrate 
 
 i implemented the following :
